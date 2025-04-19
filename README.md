@@ -39,12 +39,12 @@ This project demonstrates how to fine-tune a pre-trained MobileNet model on the 
 - Evaluate on test data
 
 #### 1. Data Sample
-- ![Image Samples](cifar-10\cifar_sample.png)
+- ![Image Samples](cifar-10/cifar_sample.png)
 
 #### 2. Evaluation Metrics
-- ![Accuracy & Loss](cifar-10\acc_loss.png)
-- ![Convusion Metric](cifar-10\conv_metrics.png)
-- ![Evaluation Metrics](cifar-10\metrics.png)
+- ![Accuracy & Loss](cifar-10/acc_loss.png)
+- ![Convusion Metric](cifar-10/conv_metrics.png)
+- ![Evaluation Metrics](cifar-10/metrics.png)
 
 #### 3. Export Model
 - Save as:
@@ -73,12 +73,12 @@ This project demonstrates how to fine-tune a pre-trained MobileNet model on the 
 - Fine-tune the base model further to adapt to the new domain
 
 #### 1. Data Sample
-- ![Image Samples](pets-37\pets_sample.png)
+- ![Image Samples](pets-37/pets_sample.png)
 
 #### 2. Evaluation Metrics
-- ![Accuracy & Loss](pets-37\acc_loss.png)
-- ![Convusion Metric](pets-37\conv_metrics.png)
-- ![Evaluation Metrics](pets-37\metrics.png)
+- ![Accuracy & Loss](pets-37/acc_loss.png)
+- ![Convusion Metric](pets-37/conv_metrics.png)
+- ![Evaluation Metrics](pets-37/metrics.png)
 
 #### 3. Export Model
 - Save as:
