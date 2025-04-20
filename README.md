@@ -103,7 +103,7 @@ This project demonstrates how to fine-tune a pre-trained MobileNet model on the 
 | Metric               | 1st Fine-Tune (CIFAR-10)                            | 2nd Fine-Tune (Oxford-IIIT Pet)                        |
 |----------------------|----------------------------------------------------|--------------------------------------------------------|
 | Dataset              | CIFAR-10                                           | Oxford-IIIT Pet                                        |
-| Trained On           | GPU                                                | CPU                                                    |
+| Trained On           | GPU (Colab)                                        | CPU (Colab)                                            |
 | Total Images (Split) | 60,000 (Train: 58%, Val: 25%, Test: 16.7%)         | 7,349 (Train: 70%, Val: 20%, Test: 10%)                |
 | Model                | MobileNetV2                                        | MobileNetV2                                            |
 | Accuracy             | 0.8121                                             | 0.7717                                                 |
